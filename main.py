@@ -27,8 +27,8 @@ def main():
     # Регистрация тренера (если необходимо)
     body_registration = {
         "trainer_token": TOKEN,
-        "email": "ibitsa7@yandex.ru",
-        "password": "MishaSpace108"
+        "email": "USER_LOGIN",
+        "password": "USER_PASSWORD"
     }
     # response = make_request('POST', '/trainers/reg', HEADER, body_registration)
     # print_response(response)
