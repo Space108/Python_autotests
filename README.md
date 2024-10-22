@@ -25,7 +25,7 @@
 2. Используется библиотека Requests
 3. Параметризированные тесты с использованием декоратора
 
-![image](https://raw.githubusercontent.com/German-D/Python-Pytest-Requests/main/static/pytest-api.png)
+![image](https://raw.githubusercontent.com/Space108/Python_autotests/refs/heads/master/pytest-api.png)
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
@@ -63,4 +63,4 @@ pytest tests/test_pokemon.py
 
 ## Автор
 
-Михаил Колядин ([@Space_108](https://t.me/Space_108))
+Михаил Колядин ([@SpaceKM](https://t.me/SpaceKM))
